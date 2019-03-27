@@ -8,5 +8,6 @@
 </head>
 <body>
 	<H1 style="color:red">Welcome</H1>
+	<p><a href="student.jsp">Register Student</a></p>
 </body>
 </html>
